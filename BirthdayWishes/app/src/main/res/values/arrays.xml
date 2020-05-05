@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="birthdaywishes" >
+
+            <item>"May all your wishes come true and may all that you desire comes to you on this special occasion. Wishing you a birthday celebration so joyful and memorable!"</item>
+            <item>"Wishing you a day filled with happiness and a year filled with joy. Happy birthday!"</item>
+            <item>"Hope your birthday is as special as you are, dear. May all your wishes and dream come true. Enjoy your birthday and count your blessings."</item>
+            <item>"You are the most precious among all the gems in this world. Today we celebrate the day when a star was born not in the sky but on the earth!"</item>
+            <item>"Very few people have the luck of having such a supportive and encouraging friend like you! You are awesome and always will be. Many good wishes for your birthday!"</item>
+            <item>"As you say goodbye to another year, just know that we’ll make a ton of sweet memories once again in the coming year! Happy Birthday!"</item>
+            <item>"Have a wonderful birthday. I wish your every day to be filled with lots of love, laughter, happiness and the warmth of sunshine."</item>
+            <item>"Wishing you a very special birthday and a wonderful year ahead!"</item>
+
+
+    </string-array>
+
+</resources>
